@@ -15,7 +15,6 @@ namespace Rendering.Acceptance.ImageComparison
 
             bool areSame = true;
 
-
             using (var firstBitmap = new Bitmap(firstImage))
             using (var secondBitmap = new Bitmap(secondImage))
             {
