@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rendering.Acceptance.Service", "Rendering.Acceptance.Service\Rendering.Acceptance.Service.csproj", "{E8920B58-9F5E-4024-A3D2-F5569A40FEDB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rendering.Acceptance.ImageComparison", "Rendering.Acceptance.ImageComparison\Rendering.Acceptance.ImageComparison.csproj", "{353F781A-0B9A-4C98-AC1B-55D1B65FA24A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E8920B58-9F5E-4024-A3D2-F5569A40FEDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8920B58-9F5E-4024-A3D2-F5569A40FEDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8920B58-9F5E-4024-A3D2-F5569A40FEDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{353F781A-0B9A-4C98-AC1B-55D1B65FA24A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{353F781A-0B9A-4C98-AC1B-55D1B65FA24A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{353F781A-0B9A-4C98-AC1B-55D1B65FA24A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{353F781A-0B9A-4C98-AC1B-55D1B65FA24A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
